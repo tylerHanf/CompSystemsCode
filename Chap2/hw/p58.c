@@ -1,5 +1,5 @@
 /**
- * Simple code for determining if 
+ * Code for determining if 
  * architecture is little endian
  **/
 #include <stdio.h>
